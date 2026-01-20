@@ -5560,9 +5560,10 @@ public class B {
 }
 
 #####################
-Threads in java: - Assignment
+Threads in java: - Assignment watch lecture 44 to 49 only. Note further lectures are outdated...
 ##################
 https://www.youtube.com/watch?v=Uw1tocKJNZw&list=PLbLiFkJgsmq6j_fFlZuy0xIs6upvrML26&index=44
+
 
 
 
